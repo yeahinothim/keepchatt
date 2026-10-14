@@ -1,0 +1,12 @@
+{
+  "name": "Remix keepchat v5",
+  "description": "Real-time chat platform with audio and video calls, screen sharing, user profiles and custom banners, role management, slash commands, file sharing, and auto-moderation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
